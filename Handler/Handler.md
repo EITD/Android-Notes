@@ -18,8 +18,3 @@
 - Implement the `callback` for processing those messages.
 
 ![MicrosoftTeams-image.png](Handler.png)
-
-<aside>
-💡 Refer to [Handler in Android](https://camposha.info/android-examples/android-handler/#gsc.tab=0) for more information.
-
-</aside>

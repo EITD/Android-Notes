@@ -57,7 +57,7 @@ object MarsApi {
 }
 ```
 
-1. How to use the service
+4. How to use the service
 
 ```kotlin
 val listResult = MarsApi.retrofitService.getPhotos()

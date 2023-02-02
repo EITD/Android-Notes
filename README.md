@@ -27,14 +27,14 @@
 
 [RecyclerView](RecyclerView/RecyclerView.md)
 
-[Intent && Bundle](Intent-&&-Bundle/Intent-&&-Bundle.md)
+[Intent && Bundle](<Intent && Bundle/Intent && Bundle.md>)
 
-[Dialog Boxes](Dialog-Boxes/Dialog-Boxes.md)
+[Dialog Boxes](<Dialog Boxes/Dialog Boxes.md>)
 
 [ScrollBarStyle](ScrollBarStyle/ScrollBarStyle.md)
 
-[px && dp](px-&&-dp/px-&&-dp.md)
+[px && dp](<px && dp/px && dp.md>)
 
-[lazy Vs lateinit](lazy-Vs-lateinit/lazy-Vs-lateinit.md)
+[lazy Vs lateinit](<lazy Vs lateinit/lazy Vs lateinit.md>)
 
-[Include Vs ViewStub Vs Merge](Include-Vs-ViewStub-Vs-Merge/Include-Vs-ViewStub-Vs-Merge.md)
+[Include Vs ViewStub Vs Merge](<Include Vs ViewStub Vs Merge/Include Vs ViewStub Vs Merge.md>)

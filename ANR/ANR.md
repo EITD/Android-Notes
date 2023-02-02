@@ -1,7 +1,7 @@
 # ANR
 
 <aside>
-💡 ANR(Application is Not Responding) is a dialog box that appears when the application is **not responding**.
+💡 ANR(Application is Not Responding) is a dialog box that appears when the application is not responding.
 
 </aside>
 

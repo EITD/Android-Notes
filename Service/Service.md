@@ -1,7 +1,7 @@
 # Service
 
 <aside>
-💡 Service runs in the background to perform **long-running operations** without user interaction. A service can run continuously in the background even if the application is **closed** or even after the user **switches** to another application.
+💡 Service runs in the background to perform long-running operations without user interaction. A service can run continuously in the background even if the application is closed or even after the user switches to another application.
 
 </aside>
 

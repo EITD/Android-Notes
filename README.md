@@ -35,6 +35,6 @@
 
 [px && dp](<px && dp/px && dp.md>)
 
-[lazy Vs lateinit](<lazy Vs lateinit/lazy Vs lateinit.md>)
+[lazy Vs lateinit](<lazy VS lateinit/lazy VS lateinit.md>)
 
-[Include Vs ViewStub Vs Merge](<Include Vs ViewStub Vs Merge/Include Vs ViewStub Vs Merge.md>)
+[Include Vs ViewStub Vs Merge](<Include VS ViewStub VS Merge/Include VS ViewStub VS Merge.md>)

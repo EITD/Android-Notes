@@ -1,7 +1,7 @@
 # Content Provider
 
 <aside>
-💡 Store data of the application and it facilities **other applications** to securely access and modify data in this application.
+💡 Store data of the application and it facilities other applications to securely access and modify data in this application.
 
 </aside>
 

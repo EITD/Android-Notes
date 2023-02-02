@@ -1,11 +1,11 @@
 # Include VS ViewStub VS Merge
 
-## <include />
+## include 
 
 > Reuse other layouts.
 > 
 
-## <merge />
+## merge 
 
 > Delete redundant levels and optimize UI.
 > 
@@ -64,7 +64,7 @@ It actually looks like:
 </FrameLayout>
 ```
 
-## <ViewStub />
+## ViewStub 
 
 > An invisible view with 0 height and 0 width. Loading of this view has been delayed to optimize UI rendering. Only take a placeholder when first rendering.
 >

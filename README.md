@@ -5,7 +5,7 @@
 
 [Broadcast](Broadcast/Broadcast.md)
 
-[Content Provider](Content-Provider/Content-Provider.md)
+[Content Provider](Content_Provider/Content_Provider.md)
 
 [Architecture](Architecture/Architecture.md)
 
